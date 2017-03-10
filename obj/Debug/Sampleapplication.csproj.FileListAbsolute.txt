@@ -1,0 +1,6 @@
+C:\Users\vpepa_000\Desktop\sample\Sampleapplication\Sampleapplication\bin\Sampleapplication.dll.config
+C:\Users\vpepa_000\Desktop\sample\Sampleapplication\Sampleapplication\bin\Sampleapplication.dll
+C:\Users\vpepa_000\Desktop\sample\Sampleapplication\Sampleapplication\bin\Sampleapplication.pdb
+C:\Users\vpepa_000\Desktop\sample\Sampleapplication\Sampleapplication\obj\Debug\Sampleapplication.csprojResolveAssemblyReference.cache
+C:\Users\vpepa_000\Desktop\sample\Sampleapplication\Sampleapplication\obj\Debug\Sampleapplication.dll
+C:\Users\vpepa_000\Desktop\sample\Sampleapplication\Sampleapplication\obj\Debug\Sampleapplication.pdb
